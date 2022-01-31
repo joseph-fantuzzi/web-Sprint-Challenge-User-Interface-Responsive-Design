@@ -157,6 +157,7 @@ footer {
 .container {
   width: 80%;
   margin: 0 auto;
+  max-width: 1000px;
 }
 
 header {
@@ -427,8 +428,8 @@ footer {
   }
 
   .middle-content .boxes .box {
-    width: 32vh;
-    height: 32vh;
+    width: 23vh;
+    height: 23vh;
   }
 
   .bot-nav {
